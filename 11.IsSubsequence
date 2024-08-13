@@ -13,4 +13,3 @@ class Solution {
         return sI==s.length();
     }
 }
-https://leetcode.com/problems/is-subsequence/
